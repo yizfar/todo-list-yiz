@@ -1,0 +1,16 @@
+/* נשתמש בו להמשך לדברים שלנו כללים */
+
+header .nav a {
+  padding:0 8px;
+  color:black;
+  text-decoration: none;
+  
+}
+/* #totdo{
+  background-image: url(https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG9kb2xpc3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+} */
+
+
