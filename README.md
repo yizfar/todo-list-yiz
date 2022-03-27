@@ -1,2 +1,1 @@
-# todo-list-yiz
-React Todo list use REDUX
+[Link to my Todo list site](https://todo-list-yiz.netlify.app/)
